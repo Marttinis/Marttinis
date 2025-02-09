@@ -1,10 +1,10 @@
 
 <img width='100%'  height='450px' src='https://github.com/user-attachments/assets/3355cabe-d9dd-4428-b110-43db6cb4cfcb'>
-<h1 align="center">Hi 👋, I'm Gabriel Martins</h1>
+<h1 align="center" style="color:red;">Hi 👋, I'm Gabriel Martins</h1>
 
 
 <p>
-  I'm currently studying full-stack web development, artificial intelligence, and mobile development. I'm passionate about technology and always eager to learn more so I can contribute to this ever-evolving field. My dream is to become a developer and researcher—I'm still figuring out the specifics, but I'm on my way to making it happen!
+  I'm currently studying full-stack web development, artificial intelligence, and mobile development. I'm passionate about technology and always eager to learn more so I can contribute to this ever-evolving field. My dream is to become a developer and a researcher—I'm still figuring out the specifics, but I'm on my way to making it happen!
 </p>
 <h3>About me: </h3>
 
@@ -20,12 +20,23 @@
 - 💬 Ask me about **javascript, react, html and css**
 
 - ⚡ Fun fact: **I like physics and astronomy.**
+
+  <details>
+  <summary>More about me:</summary>
+  
+  - I'm 24 years old from Brazil. I studied Physics for about two years but dropped out because I didn't feel like it was the right path for me. My real passion has always been technology.  
+  - I enjoy working on challenging projects and always do my best to deliver everything on time.
+  - I'm passionate about games, especially the classic ones. 🎮✨  
+  - I love cats! 😺❤️  
+</details>
+
   
 
 <h3 align="left">Reach me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-martins-vasconcelos-a5b7a0205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-martins-vasconcelos-a5b7a0205/" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielmartins2473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielmartins2473" height="30" width="40" /></a>
+
 </p>
 
 <br>
@@ -39,13 +50,16 @@
 <br>
 <br>
 
-<h3>Github Status: </h3>
+<h3 align='center'>Github Status: </h3>
 
 ---
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marttinis&show_icons=true&theme=dracula" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marttinis&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marttinis" /></p>
+
+---
+
 
 <br>
 <br>
