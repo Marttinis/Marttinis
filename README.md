@@ -1,6 +1,8 @@
 
-<img width='100%'  height='450px' src='https://github.com/user-attachments/assets/3355cabe-d9dd-4428-b110-43db6cb4cfcb'>
-<h1 align="center" style="color:red;">Hi 👋, I'm Gabriel Martins</h1>
+<img width='100%'  height='450px' src='https://github.com/user-attachments/assets/c22ea26a-e2e5-4b5e-acb2-b822bca38e4b'>
+<h1 align="center">Hi 👋, I'm Gabriel Martins</h1>
+
+
 
 
 <p>
@@ -10,7 +12,9 @@
 
 
 - ---
-<img align='right' width='400px' height='250px'   src='https://github.com/user-attachments/assets/27084d14-61fc-4db1-ae40-600083986d73'>
+<img align='right' width='400px' height='400px'   src='https://github.com/user-attachments/assets/65d8990c-f128-44f6-8e78-932fdd53d298'>
+
+
 
 
 - 🔭 I’m currently working on **and developing my programming skills**
@@ -41,6 +45,12 @@
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -63,5 +73,15 @@
 
 <br>
 <br>
-<img width='100%'  height='450px' src='https://github.com/user-attachments/assets/d901977a-e6b4-490c-b82f-932263adb7ac'>
+<div align='center'>
+  <img  width='50%'  height='250px' src='https://github.com/user-attachments/assets/3d054e8e-8983-4441-bc43-0e28bf1b65e7'>
+</div>
+
+
+
+
+
+
+
+
 
